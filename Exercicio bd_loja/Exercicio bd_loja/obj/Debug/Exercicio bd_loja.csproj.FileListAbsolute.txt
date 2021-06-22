@@ -1,0 +1,36 @@
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\Exercicio bd_loja.exe.config
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\Exercicio bd_loja.exe
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\Exercicio bd_loja.pdb
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\MySql.Data.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\System.Buffers.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\System.Memory.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\Zstandard.Net.dll
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\Google.Protobuf.pdb
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\Google.Protobuf.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\MySql.Data.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\System.Buffers.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\System.Memory.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio bd_loja.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio bd_loja.exe.config
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio_bd_loja.Form1.resources
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio_bd_loja.Properties.Resources.resources
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio bd_loja.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio bd_loja.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio bd_loja.csproj.CopyComplete
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio bd_loja.exe
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio bd_loja.pdb
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio_bd_loja.Login.resources
+C:\Users\lucas\source\repos\Exercicio bd_loja\Exercicio bd_loja\obj\Debug\Exercicio_bd_loja.cadastrar.resources
