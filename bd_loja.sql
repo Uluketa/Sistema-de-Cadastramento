@@ -73,3 +73,17 @@ tb_funcionarios_cidade varchar(100),
 tb_funcionarios_estado varchar(2)
 
 );
+
+create table tb_usuarios
+
+(
+
+id integer not null primary key auto_increment,
+
+nome varchar(100),
+
+email varchar(100),
+
+senha varchar(20)
+
+);
